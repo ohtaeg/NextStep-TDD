@@ -1,0 +1,12 @@
+[submodule "java-racingcar"]
+	path = java-racingcar
+	url = https://github.com/ohtaeg/java-racingcar.git
+[submodule "java-lotto"]
+	path = java-lotto
+	url = https://github.com/ohtaeg/java-lotto.git
+[submodule "java-ladder"]
+	path = java-ladder
+	url = https://github.com/ohtaeg/java-ladder.git
+[submodule "java-bowling"]
+	path = java-bowling
+	url = https://github.com/ohtaeg/java-bowling.git
